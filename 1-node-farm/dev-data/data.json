@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "icon": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin K, Vitamin E, Vitamin C, Potassium, Folate, Vitamin B5, Vitamin B6",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "Avocados are a great source of vitamins C, E, K, and B-6, as well as riboflavin, niacin, folate, pantothenic acid, magnesium, and potassium. They also provide lutein, beta-carotene, and omega-3 fatty acids."
+  },
+  {
+    "id": 1,
+    "productName": "Fresh Bananas",
+    "icon": "🍌",
+    "from": "Spain",
+    "nutrients": "Vitamin B6, Vitamin C, Potassium, Magnesium, Copper, Manganese, Net Carbs, Fiber",
+    "quantity": "6 🍌",
+    "price": "3.50",
+    "organic": true,
+    "description": "Bananas are a good source of several vitamins and minerals, especially potassium, vitamin B6, and vitamin C. They are also a good source of fiber."
+  },
+  {
+    "id": 2,
+    "productName": "Fresh Oranges",
+    "icon": "🍊",
+    "from": "Spain",
+    "nutrients": "Vitamin C, Fiber, Thiamine, Folate, Potassium, Antioxidants",
+    "quantity": "8 🍊",
+    "price": "4.50",
+    "organic": true,
+    "description": "Oranges are a good source of several vitamins and minerals, especially vitamin C, thiamine, folate, and potassium. They are also a good source of antioxidants."
+  },
+  {
+    "id": 3,
+    "productName": "Fresh Strawberries",
+    "icon": "🍓",
+    "from": "Spain",
+    "nutrients": "Vitamin C, Manganese, Folate, Potassium, Antioxidants, Fiber",
+    "quantity": "12 🍓",
+    "price": "5.50",
+    "organic": true,
+    "description": "Strawberries are a good source of several vitamins and minerals, especially vitamin C, manganese, and folate. They are also a good source of antioxidants."
+  }
+]
